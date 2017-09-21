@@ -131,6 +131,6 @@ s.source       = { :git => "https://github.com/carrykx/CCTestPodsLib.git", :tag 
   # s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  s.dependency "AFNetworking"
+  # s.dependency "AFNetworking"
 
 end
